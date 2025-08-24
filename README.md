@@ -29,9 +29,9 @@ Ask me anything. <a href="hasanfahim0101@gmail.com"><b>email</b></a> me.
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheeman&layout=compact&theme=tokyonight
-" alt="Faheeman's Github Stats">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheeman&layout=compact&theme=tokyonight" alt="Faheeman's Github Stats"/>
+</p>
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/fahim-hasan-319600225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
