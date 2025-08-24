@@ -29,9 +29,12 @@ Ask me anything. <a href="hasanfahim0101@gmail.com"><b>email</b></a> me.
 
 ---
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faheeman&layout=compact&theme=tokyonight
+" alt="Faheeman's Github Stats">
+
 <i>Follow me around the web:</i><br>
 
-<a href="www.linkedin.com/in/faheem-hasan10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/fahim-hasan-319600225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/vk_fahim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://x.com/vk_fahim18" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
