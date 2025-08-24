@@ -12,7 +12,9 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything. <a href="hasanfahim0101@gmail.com"><b>email</b></a> me.
+<a href="mailto:hasanfahim0101@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" width="25"/> Email Me
+</a>
 
 <i>Happy Coding!</i> 😊
 
