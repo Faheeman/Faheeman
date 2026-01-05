@@ -22,7 +22,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Faheeman&show_icons=true&theme=radical" alt="Faheeman's Github Stats">
+<img align="center" src="<img src="https://ghchart.rshah.org/Faheeman" />" alt="Faheeman's Github Stats">
 
 </br>
 </br>
