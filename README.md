@@ -22,7 +22,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <div align="center">
 
-<img align="center" src="https://ghchart.rshah.org/Faheeman" alt="Faheeman's GitHub Contribution Chart">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faheeman&theme=radical" alt="Faheeman's GitHub Contribution Chart">
 
 </br>
 </br>
